@@ -1,0 +1,3 @@
+class ItemsController < ApplicationRecord
+    
+end
